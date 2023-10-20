@@ -1,4 +1,4 @@
-package academy.BeeCrowd;
+package BeeCrowdJava;
 
 
 import java.util.Scanner;
