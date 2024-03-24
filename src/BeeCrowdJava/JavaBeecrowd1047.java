@@ -2,7 +2,7 @@ package BeeCrowdJava;
 
 import java.util.Scanner;
 
-public class Main {
+public class JavaBeecrowd1047 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int horaInicial = sc.nextInt();
@@ -18,6 +18,5 @@ public class Main {
             horaTotal = 24;
             System.out.println("O JOGO DUROU " + horaTotal + " HORA(S) E " + minutoTotal3+ " MINUTOS");
         }
-    } 
+    }
 }
-
