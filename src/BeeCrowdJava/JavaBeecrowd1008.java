@@ -12,6 +12,6 @@ public class JavaBeecrowd1008 {
         int quantity2 = sc.nextInt();
         double value2 = sc.nextDouble();
         double allValue = (quantity * value + quantity2 * value2);
-        System.out.printf("VALOR TOTAL A PAGAR: R$ %.2f\n", allValue);
+        System.out.printf("VALOR TOTAL A PAGAaR: R$ %.2f\n", allValue);
     }
 }
