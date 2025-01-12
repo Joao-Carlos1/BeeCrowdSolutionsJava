@@ -25,7 +25,7 @@ public class URI1101 {
                     soma += m;
                 }
             }
-            System.out.println("Sum=" + soma);
+            System.out.println("sum=" + soma);
         }
     }
 }
