@@ -12,7 +12,7 @@ public class Main {
             int n = input.nextInt();
             int soma = 0;
 
-            if (m == 0 || n == 0) {
+            if (m <= 0 || n <= 0 ) {
                 break;
             } else if (m > n) {
                 for (; m >= n; n++) {
